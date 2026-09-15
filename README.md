@@ -1,6 +1,10 @@
 Лаб 2: Гүйцэтгэлийн хэмжүүр — k6
 
+Оюутны код: B222270050
+Оюутны нэр: Ё.Болормаа
+
 Орчин
+Алхам 1:
 - ОС: Ubuntu Linux
 bolopoo@Ubuntu:~$ k6 version
 k6 v2.2.0 (commit/00a9a1b7f5, go1.26.5, linux/amd64)
